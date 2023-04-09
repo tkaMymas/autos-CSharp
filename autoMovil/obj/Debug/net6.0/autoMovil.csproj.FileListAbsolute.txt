@@ -1,0 +1,15 @@
+C:\Users\Juane\Documents\Programación\C#\autoMovil\autoMovil\obj\Debug\net6.0\autoMovil.csproj.AssemblyReference.cache
+C:\Users\Juane\Documents\Programación\C#\autoMovil\autoMovil\obj\Debug\net6.0\autoMovil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juane\Documents\Programación\C#\autoMovil\autoMovil\obj\Debug\net6.0\autoMovil.AssemblyInfoInputs.cache
+C:\Users\Juane\Documents\Programación\C#\autoMovil\autoMovil\obj\Debug\net6.0\autoMovil.AssemblyInfo.cs
+C:\Users\Juane\Documents\Programación\C#\autoMovil\autoMovil\obj\Debug\net6.0\autoMovil.csproj.CoreCompileInputs.cache
+C:\Users\Juane\Documents\Programación\C#\autoMovil\autoMovil\bin\Debug\net6.0\autoMovil.exe
+C:\Users\Juane\Documents\Programación\C#\autoMovil\autoMovil\bin\Debug\net6.0\autoMovil.deps.json
+C:\Users\Juane\Documents\Programación\C#\autoMovil\autoMovil\bin\Debug\net6.0\autoMovil.runtimeconfig.json
+C:\Users\Juane\Documents\Programación\C#\autoMovil\autoMovil\bin\Debug\net6.0\autoMovil.dll
+C:\Users\Juane\Documents\Programación\C#\autoMovil\autoMovil\bin\Debug\net6.0\autoMovil.pdb
+C:\Users\Juane\Documents\Programación\C#\autoMovil\autoMovil\obj\Debug\net6.0\autoMovil.dll
+C:\Users\Juane\Documents\Programación\C#\autoMovil\autoMovil\obj\Debug\net6.0\refint\autoMovil.dll
+C:\Users\Juane\Documents\Programación\C#\autoMovil\autoMovil\obj\Debug\net6.0\autoMovil.pdb
+C:\Users\Juane\Documents\Programación\C#\autoMovil\autoMovil\obj\Debug\net6.0\autoMovil.genruntimeconfig.cache
+C:\Users\Juane\Documents\Programación\C#\autoMovil\autoMovil\obj\Debug\net6.0\ref\autoMovil.dll
